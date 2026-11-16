@@ -4,3 +4,4 @@ int main() {
     Manager manager;
     manager.run();
 }
+
